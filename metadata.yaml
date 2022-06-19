@@ -1,0 +1,31 @@
+_repo: Out-of-the-Briars-An-Autobiography-and-Sketch-of-the-Twenty-ninth-Regiment-Connecticut-Volunt__68319
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Sampson, J. P.
+    gutenberg_agent_id: '54715'
+    url: http://www.gutenberg.org/2009/agents/54715
+creator:
+  author:
+    agent_name: Newton, A. H.
+    gutenberg_agent_id: '54714'
+    url: http://www.gutenberg.org/2009/agents/54714
+description: ''
+gutenberg_issued: '2022-06-15'
+identifiers:
+  gutenberg: '68319'
+language: en
+pgterms:marc905: 20181128142309newton
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The A. M. E. Book Concern,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Out of the Briars: An Autobiography and Sketch of the Twenty-ninth Regiment
+  Connecticut Volunteers'
+url: http://www.gutenberg.org/ebooks/68319
